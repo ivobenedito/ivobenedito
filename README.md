@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🙂
 
 #### Ask me about
 * Software engineering, design, product development and team management.
