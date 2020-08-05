@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### Ask me about
-Software engineering, design, product development and team management.
-I'm passionate about any of this topics, and it's intersection with real businesses and teams.
+* Software engineering, design, product development and team management.
+* I'm passionate about any of the previous topics (and others), and it's intersection with real businesses and teams.
 
 #### Reach me @
 * [Email](mailto://ivobenedito@gmail.com)
