@@ -1,7 +1,7 @@
 ### Hi there 👋🙂
 
 #### Ask me about
-* Software engineering
+* Code
 * Design
 * Product
 * Management
