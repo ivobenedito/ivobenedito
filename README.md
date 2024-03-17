@@ -1,8 +1,11 @@
 ### Hi there 👋🙂
 
 #### Ask me about
-* Software engineering, design, product development and team management.
-* I'm passionate about any of the previous topics (and others), and it's intersection with real businesses and teams.
+* Software engineering
+* Design
+* Product development
+* Team management
+* Startups
 
 #### Reach me @
 * [Email](mailto://ivobenedito@gmail.com)
