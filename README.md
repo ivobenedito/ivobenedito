@@ -3,8 +3,8 @@
 #### Ask me about
 * Software engineering
 * Design
-* Product development
-* Team management
+* Product
+* Management
 * Startups
 
 #### Reach me @
