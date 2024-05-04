@@ -1,4 +1,4 @@
-### Hi there 👋🙂
+### Hey there! 👋🙂
 
 #### Ask me about
 * Code
