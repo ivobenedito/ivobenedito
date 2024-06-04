@@ -4,7 +4,6 @@
 * Code
 * Design
 * Product
-* Management
 * Startups
 
 #### Reach me @
