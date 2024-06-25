@@ -1,4 +1,4 @@
-### Hey there! 👋🙂
+### Hey there 👋
 
 #### Ask me about
 * Software
