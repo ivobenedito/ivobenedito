@@ -1,7 +1,7 @@
 ### Hey there! 👋🙂
 
 #### Ask me about
-* Code
+* Software
 * Design
 * Product
 * Startups
